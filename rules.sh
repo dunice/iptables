@@ -1,6 +1,7 @@
 #!/bin/sh
 # Modify this file accordingly for your specific requirement.
 # http://www.thegeekstuff.com
+# http://crm.vpscheap.net/knowledgebase.php?action=displayarticle&id=29
 # 1. Delete all existing rules
 iptables -F
 
